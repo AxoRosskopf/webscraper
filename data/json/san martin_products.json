@@ -1,0 +1,72 @@
+[
+    {
+        "id": "f74d9d81-9c68-40fa-89f5-b5fb38013274",
+        "name": "Saco M\u00e9todo",
+        "price": 39000000.0,
+        "desc": "Saco Sastrero en tres colores.\nPa\u00f1o de Lana / 60% Lana /\u00a040% Poliamida\nForrado en Pong\u00e9e texturado.\nDoble bolsillo sastrero\u00a0hilvanado.\nAntiguos botones de N\u00e1car.\nHojal redondo.\nDe corte holgado en cuerpo y mangas.\nSe recomienda lavado en tintorer\u00eda.\n\nMEDIDAS:\n\nTalle I: Ancho: 100 cm. (contorno) / Largo: 56 cm.\nTalle II: Ancho: 108 cm. / Largo 58 cm.",
+        "brand": "san martin",
+        "size": [
+            "Pa\u00f1o de Lana"
+        ],
+        "color": [
+            "Natural",
+            "Gris",
+            "Rojo"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/439/333/products/10-a68117df67cbc8b6e417246891338614-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/5-5f34afe3fdf263f44117246891465189-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/1-7845a8ff453dbadc1317246891461158-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/4-48754a1789109c7dcd17246891477201-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/8-d5024dc9267ea9ef0517246891278966-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/2-937f70fa1bb50bb73f17246891464653-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/7-e666d80d7d4b23150e17246891412305-1024-1024.jpg"
+        ]
+    },
+    {
+        "id": "e5b11dcc-ce9d-4620-82ab-a4b53e0636af",
+        "name": "Short Flandes Popl\u00edn",
+        "price": 9000000.0,
+        "desc": "Popl\u00edn de Algod\u00f3n 100%\nTalle 1:\u00a0Cintura 68 cm. /\u00a0Tiro Medio 78 cm.\u00a0\u00a0\nTalle 2:\u00a0Cintura 74 cm. / Tiro Medio 84 cm.\u00a0 \u00a0\nTalle 3:\u00a0Cintura: 81 cm. / Tiro Medio 91 cm.\nEl\u00e1stico en cintura. Bolsillos laterales.\nAntiguos botones de N\u00e1car, pegados a mano.\u00a0\nLavado a mano con agua fr\u00eda o en tintorer\u00eda.",
+        "brand": "san martin",
+        "size": [
+            "Popl\u00edn de Algod\u00f3n"
+        ],
+        "color": [
+            "Lavanda",
+            "Celeste",
+            "Rosa",
+            "Azul",
+            "Blanco",
+            "Rojo"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/439/333/products/blancook1-771ddc283b16b9282016094446098523-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/celesteok1-f685de9054bbe390ce16094446106541-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/rosaok1-4648b45770538fd13316094446110650-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/rojo11-b70f7b8672fcade12b16234416313821-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/lavanda51-b266b4358f62a05d3616234437151047-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/marinook1-e648063b28be9d403416094446100736-1024-1024.jpg"
+        ]
+    },
+    {
+        "id": "9ae5747a-a16c-4826-a65e-6cce222b15f9",
+        "name": "Short Flandes Voile",
+        "price": 10500000.0,
+        "desc": "Voile de Seda\u00a0/ Algod\u00f3n 70%, Seda 30%\u00a0\u00a0\nTalle 1:\u00a0Cintura 68 cm. /\u00a0Tiro Medio 78 cm.\u00a0\u00a0\nTalle 2:\u00a0Cintura 74 cm. / Tiro Medio 84 cm.\u00a0 \u00a0\nTalle 3:\u00a0Cintura: 81 cm. / Tiro Medio 91 cm.\nEl\u00e1stico en cintura. Bolsillos laterales.\nAntiguos botones de N\u00e1car\u00a0pegados a mano.\u00a0\nLavado a mano con agua fr\u00eda o en tintorer\u00eda.",
+        "brand": "san martin",
+        "size": [
+            "Voile de Seda"
+        ],
+        "color": [
+            "Blanco",
+            "Negro"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/439/333/products/ae9a6653-d0599224de1d87056217029317540832-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/ae9a6669-53f104ca1335d2cfa517029317818396-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/offwhiteok1-883a95a9c8487d8aed16093807469250-1024-1024.jpg",
+            "//acdn.mitiendanube.com/stores/001/439/333/products/ae9a6673-c8fc53c564e0cfa63317029318068938-1024-1024.jpg"
+        ]
+    }
+]

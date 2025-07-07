@@ -1,0 +1,230 @@
+[
+    {
+        "id": "8982cbfb-0e3a-4b54-8b75-e7ab0c2a29e4",
+        "name": "Pantal\u00f3n Breezy",
+        "price": 6000000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "2",
+            "1"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pant-breezy1-01-26123f07217a20e3f617290911185959-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/breezy8-01-d0212304e43e88d3e017290913783063-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pant-breezy3-01-931bd2beaae81e59fb17290911189812-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pant-breezy2-01-4ba63dd653ec2fd43617290911194555-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pant-breezy6-01-540eb4bc7b13d3646717290911193413-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pant-breezy5-01-be790834a7b0a17f3517290911193172-1024-1024.png"
+        ]
+    },
+    {
+        "id": "c05203ec-86c5-4e8c-b4b3-ff92eec8c19b",
+        "name": "Sweater Juni",
+        "price": 5500000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "2",
+            "1"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/sweater5-01-8a2e5fb7132ecf0a8417170860530498-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/sweater2-01-5f4e6c3476e41ef5a717170858046652-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/captura-de-pantalla-2024-09-25-a-las-17-58-50-f08bc8ea999d52facd17272979415422-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/sweater3-01-523fdf316694b9e1a517170858273627-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/sweater4-01-509576e50177ecb80517170860960275-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/sweater1-01-90a36f5898b822a58817170858008847-1024-1024.png"
+        ]
+    },
+    {
+        "id": "4ff498ca-92d4-4599-8abd-83ec49f6dd87",
+        "name": "Baby Tee 2.0 Blanca",
+        "price": 3400000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteeb4-01-e2d73e23483f3c7d9217291085108058-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteeb1-01-6d48b55b63f8d940f917291085107325-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/baby-tee-bl-3-01-59891325fe3fbc224517291085105710-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteeblanca2-01-18e89ae1c1989ddee117291085107521-1024-1024.png"
+        ]
+    },
+    {
+        "id": "77bf527f-efb4-4399-940b-56df23a566cc",
+        "name": "Top All 4 you",
+        "price": 3800000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo5-01-d1b2497ace5541e8bd17291076421049-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo2-01-3e1fac88ffe7b0dbed17291076413768-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo3-01-472d0b768b0ed2b5b717291076421934-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo1-01-8b44bdcbce388815c817291076420658-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo8-01-3bdb693c659194fe8c17291078857463-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/toprojo9-01-6072bc6c7901c35c0717291078853107-1024-1024.png"
+        ]
+    },
+    {
+        "id": "8f173e89-3d4a-489a-9d52-b4f92152139c",
+        "name": "Vestido Hudson",
+        "price": 6000000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/vestido-3-01-b362d47ca4233be9f717171781016672-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/vestido-1-01-e03f8d8f182d27dab417171781117640-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/captura-de-pantalla-2024-09-26-a-las-15-42-44-22c3606a83196637c617273761803267-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/vestido2-01-e180b0602cd1bf623d17171781076786-1024-1024.png"
+        ]
+    },
+    {
+        "id": "ba35fcd7-461f-4414-9956-d8dcc0f2ca5e",
+        "name": "Remera Cherry",
+        "price": 3500000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "2",
+            "1"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherryyy-01-a8a144cbfe0d64b24517334133192555-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry2-01-024101c7584785f9b817290985286178-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry5-01-421ebba7531c66a05617290985289260-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry7-01-cbe5e72477da9c679517290985675805-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry-01-959ca5aa3ce7a7415b17290985289453-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry1-01-efcc9a5a884687be4a17334132545874-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry4-01-83f96bcdd5109ebee017290985295640-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry3-01-c4f9f88c5c59b6669617290985288112-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherryy-01-c667ba186796cada7817334132544294-1024-1024.png"
+        ]
+    },
+    {
+        "id": "d1fda80d-b7c0-441b-89a1-51a32573a31b",
+        "name": "Pollera Come on Over",
+        "price": 4600000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera-come-on-over1-01-38aa7599e05fbc140417290977255154-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera5-01-a3af3efb0ee53a514817290977257157-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera4-01-46be45c90ad4dfdcdd17290977254561-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera2-01-d0259ba5ea0cfcd91417290977261295-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera3-01-1b97929a2ffe84c11c17290977255699-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/pollera6-01-85deaebedff6b3b43317290977256472-1024-1024.png"
+        ]
+    },
+    {
+        "id": "a8da5a2d-0295-480b-8033-086e873a47c7",
+        "name": "Mila Cardigan",
+        "price": 4200000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cardifan2-01-be25e8b2d2421a782e17362628367064-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cardigan3-01-7a3fcfae2e86098ec117362628368029-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cardigan-01-f6ce59af2bae93aa3c17362628368273-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/captura-de-pantalla-2024-09-25-a-las-18-08-56-ef2bb9d757be80870217272985463608-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cardigan4-01-bbe05780b5464b6b3d17362628365583-1024-1024.png"
+        ]
+    },
+    {
+        "id": "861acb21-8532-45ea-9f81-09b8dd8ecdea",
+        "name": "Busy Skirt",
+        "price": 6800000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy1-01-1b3327bb2ef605299317290305185307-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy-7-01-2056130e681e6fc85c17290305883324-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy-8-01-33aa05044a654a77d317290306342452-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy2-01-22df3fbd4d2fd5aa3817290305195613-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy-9-01-aeb77d73ed4ff23c2a17290307807838-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy-3-01-52d0b249926dbdb7e917290305186451-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/mini-busy-5-01-08b61552825083c7f417290305185615-1024-1024.png"
+        ]
+    },
+    {
+        "id": "51351abf-2875-4248-b036-2182019f1bb8",
+        "name": "Iris Pants Beige",
+        "price": 12000000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispant5-01-705a72fb742a14bb5217291092608129-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispant6-01-a505392d2e5288b85817291092612911-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/cherry2-01-dd64153415ca52aaa717291096128083-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/captura-de-pantalla-2024-06-03-a-las-13-45-41-1c5f88e6a0354792fe17174331546253-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispant10-01-dcdcf22c76b612e12717291094322277-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispant3-01-71d26bade959c2870b17291092603301-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispantb2-01-f5581cbe7c01b5f91e17291092612697-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/irispantb8-01-940bc2d8a39c1d256817291093230071-1024-1024.png"
+        ]
+    },
+    {
+        "id": "98201803-91bc-4cf5-bc76-2b4fd9130791",
+        "name": "Baby Tee 2.0 Negra",
+        "price": 3400000.0,
+        "desc": "",
+        "brand": "anima basics",
+        "size": [],
+        "color": [
+            "L",
+            "M",
+            "S"
+        ],
+        "img": [
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteen8-01-6d7908434b33164b7517291088419573-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteen1-01-0b507d5c594daa176f17291087793364-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteen5-01-5f406799e9dc7cb58817291087796135-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteen4-01-80f810b9164401656517291087794026-1024-1024.png",
+            "//acdn.mitiendanube.com/stores/001/587/996/products/babyteen2-01-be06470fbd6cdeb47c17291087790630-1024-1024.png"
+        ]
+    }
+]
